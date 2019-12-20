@@ -1,0 +1,1 @@
+Following freeCodeCamp's tutorial on the React Component Lifecycle at https://www.youtube.com/watch?v=m_mtV4YaI8c
